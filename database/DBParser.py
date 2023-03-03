@@ -61,5 +61,5 @@ geojson = {
     "features": features
 }
 
-with open("dbtogeojson.json", "w") as f:
+with open("DBtoGeojsonFormat.json", "w") as f:
     json.dump(geojson, f)
