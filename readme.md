@@ -1,4 +1,4 @@
-# OpenLayers + Vite
+# SII Last Assignment: With OpenLayers + Vite
 
 Run the app with
 
