@@ -1,0 +1,17 @@
+[
+    {
+        "ID": 1,
+        "Name": "Max Mueller",
+        "Surveys": 3
+    },
+    {
+        "ID": 2,
+        "Name": "Martina Mahler",
+        "Surveys": 2
+    },
+    {
+        "ID": 3,
+        "Name": "Miriam Mustermann",
+        "Surveys": 8
+    }
+]

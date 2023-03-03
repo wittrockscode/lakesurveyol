@@ -1,0 +1,34 @@
+[
+    {
+        "Area": 42751.69,
+        "Depth": 2.2,
+        "Geometry_ID": 1,
+        "ID": 1,
+        "Name": "Schlossgraben",
+        "Volume": "94053,72"
+    },
+    {
+        "Area": 6681.97,
+        "Depth": 0.8,
+        "Geometry_ID": 2,
+        "ID": 2,
+        "Name": "Kanonengraben",
+        "Volume": "5345,58"
+    },
+    {
+        "Area": 4372.11,
+        "Depth": 1.5,
+        "Geometry_ID": 3,
+        "ID": 3,
+        "Name": "Kastellgraben",
+        "Volume": "6558,16"
+    },
+    {
+        "Area": 402000,
+        "Depth": 2,
+        "Geometry_ID": 4,
+        "ID": 4,
+        "Name": "Aasee",
+        "Volume": 804000
+    }
+]

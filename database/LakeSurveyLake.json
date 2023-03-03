@@ -1,0 +1,22 @@
+[
+    {
+        "LakeID": 1,
+        "LakeSurveyID": 1
+    },
+    {
+        "LakeID": 2,
+        "LakeSurveyID": 2
+    },
+    {
+        "LakeID": 3,
+        "LakeSurveyID": 3
+    },
+    {
+        "LakeID": 4,
+        "LakeSurveyID": 4
+    },
+    {
+        "LakeID": 4,
+        "LakeSurveyID": 5
+    }
+]

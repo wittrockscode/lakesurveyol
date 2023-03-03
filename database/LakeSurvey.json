@@ -1,0 +1,32 @@
+[
+    {
+        "Date": "2023-02-08",
+        "ID": 1,
+        "Results": "No new findings.",
+        "Surveyor_ID": 1
+    },
+    {
+        "Date": "2023-02-02",
+        "ID": 2,
+        "Results": "Water temperature increased by 0.5 degrees compared to last year.",
+        "Surveyor_ID": 2
+    },
+    {
+        "Date": "2023-02-01",
+        "ID": 3,
+        "Results": "The depth has remained constant.",
+        "Surveyor_ID": 3
+    },
+    {
+        "Date": "2023-01-03",
+        "ID": 4,
+        "Results": "Levels of cadmium remained constant.",
+        "Surveyor_ID": 2
+    },
+    {
+        "Date": "2023-02-04",
+        "ID": 5,
+        "Results": "The level of pollution has increased.",
+        "Surveyor_ID": 1
+    }
+]
